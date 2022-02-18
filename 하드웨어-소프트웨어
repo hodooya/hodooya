@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T06:27:47.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cX-4UdnVo5smyoMky6RJ" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T06:29:20.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="m_FnJSyRvk0KcEEfnbk3" version="16.6.1" type="github">
   <diagram id="v8IMBpT15n_YchlUDzWM" name="Page-1">
-    <mxGraphModel dx="460" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="460" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,22 +26,22 @@
           <mxGeometry x="260" y="260" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aTeFUUbLTF8yCc5U4fy4-8" value="&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="460" y="320" width="20" height="20" as="geometry" />
+          <mxGeometry x="480" y="320" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aTeFUUbLTF8yCc5U4fy4-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="350" width="20" height="20" as="geometry" />
+          <mxGeometry x="480" y="350" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aTeFUUbLTF8yCc5U4fy4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BCCBD6;strokeColor=#577299;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="380" width="20" height="20" as="geometry" />
+          <mxGeometry x="480" y="380" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aTeFUUbLTF8yCc5U4fy4-11" value="하드웨어 영역" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="315" width="140" height="30" as="geometry" />
+          <mxGeometry x="510" y="315" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aTeFUUbLTF8yCc5U4fy4-12" value="소프트웨어 영역" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="345" width="100" height="30" as="geometry" />
+          <mxGeometry x="510" y="345" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aTeFUUbLTF8yCc5U4fy4-13" value="외부 연동대상 장비" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="375" width="130" height="30" as="geometry" />
+          <mxGeometry x="510" y="375" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
