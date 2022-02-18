@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T05:41:54.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.1" etag="ZEmmPsrpAhZTlBVN1Htv" type="github"><diagram id="X3EtxPuUOknGA16VT4hm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-18T06:02:40.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rWzmdxI43lxqDneu-O1f" version="16.6.1" type="github">
+  <diagram id="X3EtxPuUOknGA16VT4hm" name="Page-1">
+    <mxGraphModel dx="610" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="aRb-zurqaUa4f_y7jbVK-1" target="aRb-zurqaUa4f_y7jbVK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-1" value="데이터링크 연동통제장치 CSCI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="aRb-zurqaUa4f_y7jbVK-2" target="aRb-zurqaUa4f_y7jbVK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="aRb-zurqaUa4f_y7jbVK-2" target="aRb-zurqaUa4f_y7jbVK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-2" value="C2링크모의 CSC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BCCBD6;strokeColor=#577299;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="aRb-zurqaUa4f_y7jbVK-4" target="aRb-zurqaUa4f_y7jbVK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-4" value="메시지 모의" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="aRb-zurqaUa4f_y7jbVK-5" target="aRb-zurqaUa4f_y7jbVK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="aRb-zurqaUa4f_y7jbVK-5" target="aRb-zurqaUa4f_y7jbVK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-5" value="메시지 처리" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-9" value="노드 관리" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-16" value="장비 구성품 관리" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-17" value="네트워크 관리" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-24" value="메시지 모의" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-25" value="메시지 처리" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-26" value="메시지 모의 기능" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRb-zurqaUa4f_y7jbVK-27" value="메시지 처리 기능" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
