@@ -1,24 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T04:01:38.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3PeFn1agARBYTNprJQrI" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T04:21:06.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9RYWu8KbdDJAbD0l-u5E" version="16.6.1" type="github">
   <diagram id="s1FKZSGexTSratax09iy" name="Page-1">
     <mxGraphModel dx="1214" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IlUTaZ7XPy5xO658nbfU-30" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="470" height="400" as="geometry" />
+          <mxGeometry x="110" y="210" width="470" height="380" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-33" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="249.38" width="40.62" height="170.62" as="geometry" />
+          <mxGeometry x="440" y="260" width="40.62" height="170.62" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IlUTaZ7XPy5xO658nbfU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="700" as="sourcePoint" />
+            <mxPoint x="140" y="680" as="sourcePoint" />
             <mxPoint x="280" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IlUTaZ7XPy5xO658nbfU-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="700" as="sourcePoint" />
+            <mxPoint x="300" y="680" as="sourcePoint" />
             <mxPoint x="280" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -30,25 +30,25 @@
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="IlUTaZ7XPy5xO658nbfU-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480.62" y="259.37500000000006" as="sourcePoint" />
+            <mxPoint x="480.62" y="269.99500000000006" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="480.62" y="261.34" />
-              <mxPoint x="510.62" y="261.34" />
-              <mxPoint x="510.62" y="291.34" />
+              <mxPoint x="480.62" y="271.96" />
+              <mxPoint x="510.62" y="271.96" />
+              <mxPoint x="510.62" y="301.96" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IlUTaZ7XPy5xO658nbfU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="IlUTaZ7XPy5xO658nbfU-32">
+        <mxCell id="IlUTaZ7XPy5xO658nbfU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;labelBackgroundColor=none;" edge="1" parent="1" target="IlUTaZ7XPy5xO658nbfU-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490.6199999999999" y="330.00000000000006" as="sourcePoint" />
+            <mxPoint x="490.6199999999999" y="340.62000000000006" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="510.62" y="329.62" />
-              <mxPoint x="510.62" y="360.62" />
+              <mxPoint x="510.62" y="340.24" />
+              <mxPoint x="510.62" y="371.24" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470.62" y="291.72" width="20" height="38.28" as="geometry" />
+          <mxGeometry x="470.62" y="302.34000000000003" width="20" height="38.28" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IlUTaZ7XPy5xO658nbfU-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-12" value="연결 요청" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="130" width="90" height="20" as="geometry" />
+          <mxGeometry x="140" y="130" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="20" height="40" as="geometry" />
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-18" value="연결 요청 응답" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="170" width="90" height="20" as="geometry" />
+          <mxGeometry x="140" y="170" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-19" value="" style="shape=card;whiteSpace=wrap;html=1;rotation=90;size=10;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="119.38" y="200.63" width="30" height="48.75" as="geometry" />
@@ -81,67 +81,76 @@
           <mxGeometry x="104.38" y="213.75" width="60" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="360.62" width="20" height="39.38" as="geometry" />
+          <mxGeometry x="470" y="371.24" width="20" height="39.38" as="geometry" />
         </mxCell>
-        <mxCell id="IlUTaZ7XPy5xO658nbfU-36" value="폴더 생성" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510.62" y="261.71999999999997" width="60" height="30" as="geometry" />
+        <mxCell id="IlUTaZ7XPy5xO658nbfU-36" value="폴더 생성" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510.62" y="272.34" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IlUTaZ7XPy5xO658nbfU-37" value="파일&amp;nbsp;생성" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510.62" y="330" width="60" height="30" as="geometry" />
+        <mxCell id="IlUTaZ7XPy5xO658nbfU-37" value="파일&amp;nbsp;생성" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510.62" y="340.62" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" target="IlUTaZ7XPy5xO658nbfU-40" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="440" as="sourcePoint" />
-            <mxPoint x="280" y="440" as="targetPoint" />
+            <mxPoint x="140" y="450.62" as="sourcePoint" />
+            <mxPoint x="280" y="450.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-39" value="정보 요청" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="420" width="90" height="20" as="geometry" />
+          <mxGeometry x="140" y="430.62" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="440" width="20" height="40" as="geometry" />
+          <mxGeometry x="290" y="450.62" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-41" value="" style="endArrow=open;dashed=1;html=1;rounded=0;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" source="IlUTaZ7XPy5xO658nbfU-40" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="600" as="sourcePoint" />
-            <mxPoint x="140" y="480" as="targetPoint" />
+            <mxPoint x="230" y="610.62" as="sourcePoint" />
+            <mxPoint x="140" y="490.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-42" value="정보 보고" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="460" width="90" height="20" as="geometry" />
+          <mxGeometry x="140" y="470.62" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" target="IlUTaZ7XPy5xO658nbfU-45" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="640" as="sourcePoint" />
-            <mxPoint x="280" y="640" as="targetPoint" />
+            <mxPoint x="140" y="620" as="sourcePoint" />
+            <mxPoint x="280" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-44" value="망탈퇴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="620" width="90" height="20" as="geometry" />
+          <mxGeometry x="140" y="600" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="640" width="20" height="40" as="geometry" />
+          <mxGeometry x="290" y="620" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-48" value="Log" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IlUTaZ7XPy5xO658nbfU-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="703.3333333333334" as="sourcePoint" />
+            <mxPoint x="460" y="680" as="sourcePoint" />
             <mxPoint x="630" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" target="IlUTaZ7XPy5xO658nbfU-52" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="520" as="sourcePoint" />
-            <mxPoint x="440" y="520" as="targetPoint" />
+            <mxPoint x="140" y="530.62" as="sourcePoint" />
+            <mxPoint x="440" y="530.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-51" value="Log 작성" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="500" width="120" height="20" as="geometry" />
+          <mxGeometry x="300" y="510.62" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IlUTaZ7XPy5xO658nbfU-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="520" width="20" height="40" as="geometry" />
+          <mxGeometry x="450" y="530.62" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IlUTaZ7XPy5xO658nbfU-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IlUTaZ7XPy5xO658nbfU-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="260.62" as="sourcePoint" />
+            <mxPoint x="440" y="380.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IlUTaZ7XPy5xO658nbfU-55" value="폴더/파일 생성" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
