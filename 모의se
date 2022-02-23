@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T07:01:56.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9sPlMNNwNIuou6jdoFXo" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T07:22:13.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="CLxIhiDWyLSquujBeO6N" version="16.6.2" type="github">
   <diagram id="T1b--nU8Z-82_a9fPdNC" name="Page-1">
     <mxGraphModel dx="739" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,10 +127,10 @@
         <mxCell id="8htunjrO_r7qiwfPb56w-30" value="응답" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="219.97" y="510" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q7Q1fsPxT6jxLHttO7fA-2" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;STANAG-4586&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q7Q1fsPxT6jxLHttO7fA-2" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;STANAG-4586&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="290" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q7Q1fsPxT6jxLHttO7fA-3" value="&lt;span style=&quot;font-size: 7px&quot;&gt;통신장비 관리&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q7Q1fsPxT6jxLHttO7fA-3" value="&lt;span style=&quot;font-size: 7px&quot;&gt;통신장비 관리&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="220" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
