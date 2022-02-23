@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T07:00:34.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lyBsFLnXF60rEC1vvN2c" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T07:06:10.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="WtdkqK4ZVBp6RSbxBbt7" version="16.6.2" type="github">
   <diagram id="X_zie21RN81Pyhlqxa2D" name="Page-1">
     <mxGraphModel dx="739" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="Yt5gaP8L_5cSaRQrUz8L-10" value="정보 보고" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="380" y="240" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-21" value="C2Create" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-21" value="C2Simulate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yt5gaP8L_5cSaRQrUz8L-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="Yt5gaP8L_5cSaRQrUz8L-21" edge="1">
