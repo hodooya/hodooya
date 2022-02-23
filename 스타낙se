@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T07:51:36.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="CqKJ8M3B4JQVvQjN87Ch" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T07:51:49.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QGbVAE2qUExvAuYCKftt" version="16.6.2" type="github">
   <diagram id="X_zie21RN81Pyhlqxa2D" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="530" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-4" value="InformRequest()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-4" value="정보 요청" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="380" y="210" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yt5gaP8L_5cSaRQrUz8L-5" value="C2Metering" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
             <mxPoint x="380" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-10" value="InformReport()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-10" value="정보 보고" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="380" y="240" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yt5gaP8L_5cSaRQrUz8L-21" value="C2Simulate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="Yt5gaP8L_5cSaRQrUz8L-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="150" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-25" value="CreateMsg()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-25" value="메시지 생성" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="130" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yt5gaP8L_5cSaRQrUz8L-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -73,7 +73,7 @@
             <mxPoint x="540" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-31" value="SendMsg()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Yt5gaP8L_5cSaRQrUz8L-31" value="메시지 전달" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="180" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
